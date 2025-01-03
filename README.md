@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## I'm Cameron.
+## I'm Aziz.
 
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Engineering at Brigham Young University Idaho.
+- 🎓 &nbsp; Studying Information System at Jambi University
 
 
 ### 🛠 &nbsp;Tech Stack
@@ -27,15 +27,6 @@
 - 🔧 &nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-
-## Latest Articles
-<!-- BLOG-POST-LIST:START -->
-- [Linux For Development?](https://dev.to/cdthomp1/linux-for-development-1dnp)
-- [Filament Hero : Update!](https://dev.to/cdthomp1/filament-hero-update-1fg3)
-- [What is your favorite database?](https://dev.to/cdthomp1/what-is-your-favorite-database-55om)
-- [My Hacktoberfest Repos](https://dev.to/cdthomp1/my-hacktoberfest-repos-2121)
-- [Making a Mini Wiki with the SpaceX Api and Next.js](https://dev.to/cdthomp1/making-a-mini-wiki-with-the-spacex-api-and-next-js-21p6)
-<!-- BLOG-POST-LIST:END -->
 
 ## My Stats
 <p>
