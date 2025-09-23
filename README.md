@@ -25,8 +25,8 @@
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php&logoColor=777BB4)
 
 - 🛢 &nbsp;Databases:  
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
-  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)  
 
 - ⚙️ &nbsp;Tools and Platforms:
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
