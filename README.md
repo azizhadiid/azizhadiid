@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp;Exploring new technologies and developing software solutions to our world's tech problems.
 - 🎓 &nbsp;Studying Information Systems at Jambi University.
-- 🎯 &nbsp;Current GPA: **3.85** (A)
+- 🎯 &nbsp;Current GPA: **3.84** (A)
 
 ## 🛠️ Tech Stack
 
@@ -56,6 +56,10 @@
 <p>
 <a href="https://github.com/azizhadiid">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=azizhadiid&show_icons=true&theme=radical" />
+</a>
+</p>
+<p>
+<a href="https://github.com/azizhadiid">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=azizhadiid&theme=radical&layout=compact&exclude_lang=java+r" />
 </a>
 </p>
