@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp;Exploring new technologies and developing software solutions to our world's tech problems.
 - 🎓 &nbsp;Studying Information Systems at Jambi University.
-- 🎯 &nbsp;Current GPA: **3.84** (A)
+- 🎯 &nbsp;Current GPA: **3.85** (A)
 
 ## 🛠️ Tech Stack
 
